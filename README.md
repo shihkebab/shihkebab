@@ -6,5 +6,5 @@
 
 ### contact me: 
 
-[![header](https://github.com/shihkebab/shihkebab/blob/master/assets/lolz/LolzTeam-Logo-Green.png)](https://zelenka.guru/members/shkbab)
+[![header](https://github.com/shihkebab/shihkebab/blob/master/assets/lolz/LolzTeam-Logo-Green.png)](https://zelenka.guru/shkbab/)
 
