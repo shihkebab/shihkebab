@@ -5,6 +5,6 @@
 ### languages and tools:
 
 ### contact me: 
-
-[![header](https://github.com/shihkebab/shihkebab/blob/master/assets/lolz/LolzTeam-Logo-Green.png)](https://zelenka.guru/shkbab/)
+[![telegram](https://github.com/shihkebab/shihkebab/blob/master/assets/lolz/LolzTeam-Logo-Green.png)](https://t.me/shihkebab)
+[![header](https://github.com/shihkebab/shihkebab/blob/master/assets/lolz/LolzTeam-Logo-Green.png)](https://zelenka.guru/shkbab)
 
