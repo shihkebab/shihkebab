@@ -4,5 +4,7 @@
   
 ### languages and tools:
 
-### contact me: ![](https://github.com/shihkebab/shihkebab/blob/master/assets/LolzTeam-Logo-Green.svg)
+### contact me: 
+
+[![header](https://github.com/shihkebab/shihkebab/blob/master/assets/lolz/LolzTeam-Logo-Green.png)](https://zelenka.guru/members/shkbab)
 
