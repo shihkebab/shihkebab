@@ -1,6 +1,6 @@
 
 
-## <div align="center">I'm Dmitriy, novice python🐍 developer. I mainly **develop  telegram bots**🤖, also have basic knowledge of **html&css**.🌺</div>  
+## <div align="center">🌺</div>  
   
 
 
